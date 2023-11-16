@@ -1,0 +1,2 @@
+# Privacy-Preserving-Intrusion-Detection-in-Software-defined-VANET-using-Federated-Learning-with-BERT
+Introducing FL-BERT, a novel intrusion detection approach merging Federated Learning (FL) and BERT model. Emphasizing data privacy, individual clients train local models, share weights with a central server, which aggregates them to update a global model, fostering collaborative security without compromising sensitive information.
